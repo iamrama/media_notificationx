@@ -1,6 +1,6 @@
 # media_notificationx
 Display media notification with image from url
 
-** Support Format **
+**Support Format**
 
-> Now, support only for android
+- Now, support only for android
