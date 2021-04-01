@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - media_notificationx (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - media_notificationx (from `.symlinks/plugins/media_notificationx/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  media_notificationx:
+    :path: ".symlinks/plugins/media_notificationx/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  media_notificationx: 29f378634af6f2e36a750ab68d2533eceddef899
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1

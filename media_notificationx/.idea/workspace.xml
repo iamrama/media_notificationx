@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abd2838d-ef07-429f-b94a-7c49e33122c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_XL_API_28]" />
+  <component name="ProjectId" id="1qYwA2v0akmuGl2Ypy7saX8aapE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abd2838d-ef07-429f-b94a-7c49e33122c7" name="Default Changelist" comment="" />
+      <created>1617269684953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617269684953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="102" y="125" width="1705" height="849" key="AVDManager" timestamp="1617277952700">
+      <screen x="0" y="25" width="1920" height="1079" />
+    </state>
+    <state x="102" y="125" width="1705" height="849" key="AVDManager/0.25.1920.1079@0.25.1920.1079" timestamp="1617277952700" />
+    <state width="1863" height="285" key="GridCell.Tab.0.bottom" timestamp="1617280389020">
+      <screen x="0" y="25" width="1920" height="1079" />
+    </state>
+    <state width="1863" height="285" key="GridCell.Tab.0.bottom/0.25.1920.1079@0.25.1920.1079" timestamp="1617280389020" />
+    <state width="1863" height="285" key="GridCell.Tab.0.center" timestamp="1617280389015">
+      <screen x="0" y="25" width="1920" height="1079" />
+    </state>
+    <state width="1863" height="285" key="GridCell.Tab.0.center/0.25.1920.1079@0.25.1920.1079" timestamp="1617280389015" />
+    <state width="1863" height="285" key="GridCell.Tab.0.left" timestamp="1617280389013">
+      <screen x="0" y="25" width="1920" height="1079" />
+    </state>
+    <state width="1863" height="285" key="GridCell.Tab.0.left/0.25.1920.1079@0.25.1920.1079" timestamp="1617280389013" />
+    <state width="1863" height="285" key="GridCell.Tab.0.right" timestamp="1617280389018">
+      <screen x="0" y="25" width="1920" height="1079" />
+    </state>
+    <state width="1863" height="285" key="GridCell.Tab.0.right/0.25.1920.1079@0.25.1920.1079" timestamp="1617280389018" />
+    <state width="1863" height="285" key="GridCell.Tab.1.bottom" timestamp="1617280389028">
+      <screen x="0" y="25" width="1920" height="1079" />
+    </state>
+    <state width="1863" height="285" key="GridCell.Tab.1.bottom/0.25.1920.1079@0.25.1920.1079" timestamp="1617280389028" />
+    <state width="1863" height="285" key="GridCell.Tab.1.center" timestamp="1617280389023">
+      <screen x="0" y="25" width="1920" height="1079" />
+    </state>
+    <state width="1863" height="285" key="GridCell.Tab.1.center/0.25.1920.1079@0.25.1920.1079" timestamp="1617280389023" />
+    <state width="1863" height="285" key="GridCell.Tab.1.left" timestamp="1617280389020">
+      <screen x="0" y="25" width="1920" height="1079" />
+    </state>
+    <state width="1863" height="285" key="GridCell.Tab.1.left/0.25.1920.1079@0.25.1920.1079" timestamp="1617280389020" />
+    <state width="1863" height="285" key="GridCell.Tab.1.right" timestamp="1617280389026">
+      <screen x="0" y="25" width="1920" height="1079" />
+    </state>
+    <state width="1863" height="285" key="GridCell.Tab.1.right/0.25.1920.1079@0.25.1920.1079" timestamp="1617280389026" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/android/src/main/java/com/rk/medianotify/media_notificationx/src/NotificationServiceManager.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
